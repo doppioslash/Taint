@@ -1,0 +1,3 @@
+[submodule "Libs/LoveUpdate"]
+	path = Libs/LoveUpdate
+	url = git://github.com/TheLinx/LoveUpdate.git
